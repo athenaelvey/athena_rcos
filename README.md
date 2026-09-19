@@ -8,5 +8,5 @@
 
 # \- Project Sub-area: Project Elara
 
-# \- Photo: hs.jpg
+# \- !\[Photo: ](hs.jpg)
 
